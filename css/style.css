@@ -1,0 +1,9 @@
+body{
+	padding-top: 70px;
+}
+.sidebar,.content{
+	border:1px solid #ccc;	
+}
+.contact img{
+	max-width: 80%;
+}
